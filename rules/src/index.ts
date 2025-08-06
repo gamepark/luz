@@ -1,3 +1,3 @@
-export { GameTemplateRules } from './GameTemplateRules'
-export { GameTemplateOptionsSpec } from './GameTemplateOptions'
-export { GameTemplateSetup } from './GameTemplateSetup'
+export { LuzRules } from './LuzRules'
+export { LuzOptionsSpec } from './LuzOptions'
+export { LuzSetup } from './LuzSetup'
